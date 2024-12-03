@@ -1,12 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Çağrı Ceyhan</h1>
-<h3 align="center">TR | Merhaba, ben Çağrı Ceyhan. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Siber güvenlik ve yapay zeka alanlarına büyük ilgi duyuyor, bu alanlarda kendimi geliştirmek için sürekli çaba gösteriyorum. Online eğitimler, projeler ve kaynaklar aracılığıyla hem teorik hem de pratik bilgilerimi artırmaya odaklanıyorum. Teknoloji dünyasındaki yenilikleri takip etmek ve öğrendiklerimi uygulayarak değer üretmek en büyük hedeflerimden biri. <br>ENG | Hello, I am Çağrı. I am a 2nd year student of Computer Engineering at Bolu Abant İzzet Baysal University. I am very interested in the fields of cyber security and artificial intelligence, and I constantly strive to improve myself in these fields. I can improve both my theoretical and practical knowledge through online trainings, projects and resources. "One of my biggest goals is to follow the innovations in the technology world and create value by applying what I have learned.</h3>
+<h3 align="center">TR | Merhaba, ben Çağrı Ceyhan. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Siber güvenlik ve yapay zeka alanlarına büyük ilgi duyuyor, bu alanlarda kendimi geliştirmek için sürekli çaba gösteriyorum. Online eğitimler, projeler ve kaynaklar aracılığıyla hem teorik hem de pratik bilgilerimi artırmaya odaklanıyorum. Teknoloji dünyasındaki yenilikleri takip etmek ve öğrendiklerimi uygulayarak değer üretmek en büyük hedeflerimden biri. ENG | Hello, I am Çağrı. I am a 2nd year student of Computer Engineering at Bolu Abant İzzet Baysal University. I am very interested in the fields of cyber security and artificial intelligence, and I constantly strive to improve myself in these fields. I can improve both my theoretical and practical knowledge through online trainings, projects and resources. "One of my biggest goals is to follow the innovations in the technology world and create value by applying what I have learned.</h3>
 
 - 📫 How to reach me **cagriceyhan20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/çağrı ceyhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çağrı ceyhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://github.com/cagriceyhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/cagriceyhan" height="30" width="40" /></a>
 <a href="https://instagram.com/caagriceyhaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caagriceyhaan" height="30" width="40" /></a>
 </p>
 
@@ -17,3 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cagriceyhan&show_icons=true&locale=en" alt="cagriceyhan" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cagriceyhan&" alt="cagriceyhan" /></p>
