@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Çağrı Ceyhan</h1>
 <h3 align="center">TR | Merhaba, ben Çağrı Ceyhan. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Siber güvenlik ve yapay zeka alanlarına büyük ilgi duyuyor, bu alanlarda kendimi geliştirmek için sürekli çaba gösteriyorum. Online eğitimler, projeler ve kaynaklar aracılığıyla hem teorik hem de pratik bilgilerimi artırmaya odaklanıyorum. Teknoloji dünyasındaki yenilikleri takip etmek ve öğrendiklerimi uygulayarak değer üretmek en büyük hedeflerimden biri. ENG | Hello, I am Çağrı. I am a 2nd year student of Computer Engineering at Bolu Abant İzzet Baysal University. I am very interested in the fields of cyber security and artificial intelligence, and I constantly strive to improve myself in these fields. I can improve both my theoretical and practical knowledge through online trainings, projects and resources. "One of my biggest goals is to follow the innovations in the technology world and create value by applying what I have learned.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cagriceyhan&label=Profile%20views&color=0e75b6&style=flat" alt="cagriceyhan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cagriceyhan" alt="cagriceyhan" /></a> </p>
-
 - 🌱 I’m currently learning **Cyber Security**
 
 - 📫 How to reach me **cagriceyhan20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/çağrıceyhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çağrıceyhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/%c3%a7a%c4%9fr%c4%b1-ceyhan-2bab45251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%c3%a7a%c4%9fr%c4%b1-ceyhan-2bab45251/" height="30" width="40" /></a>
 <a href="https://instagram.com/caagriceyhaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caagriceyhaan" height="30" width="40" /></a>
 </p>
 
